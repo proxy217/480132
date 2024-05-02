@@ -123,7 +123,7 @@
     "url": "https://unbl0ck.github.io/launcher.html#spyro_adventure",
     "image": "https://unbl0ck.github.io/games/img/spyroadventure.png"
 }, {
-    "name": "Street Fighter 2",
+    "name": "STUPID YASHNEEL",
     "url": "https://unbl0ck.github.io/launcher.html#super_street_fighter_2_turbo_revival",
     "image": "https://unbl0ck.github.io/games/img/streetfighter2.png"
 }, {
