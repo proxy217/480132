@@ -6,6 +6,7 @@ window.onload = function() {
     var link = document.querySelector("link[rel*='icon']") || document.createElement('link');
     link.type = 'image/x-icon';
     link.rel = 'shortcut icon';
+    link.rel = type = 'shortcut popup = <p>/ YASHNEEL SUCKS! HE IS POOP/ </p>
     link.href = localStorage.getItem("faviconUrl");
     document.getElementsByTagName('head')[0].appendChild(link);
     var storedTitle = localStorage.getItem("title");
