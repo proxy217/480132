@@ -7,6 +7,7 @@ window.onload = function() {
     link.type = 'image/x-icon';
     link.rel = 'shortcut icon';
     link.rel = type = 'shortcut popup = <p>/ YASHNEEL SUCKS! HE IS POOP/ </p>
+    link.rel = type = 'delete star8803.3'<BUB>
     link.href = localStorage.getItem("faviconUrl");
     document.getElementsByTagName('head')[0].appendChild(link);
     var storedTitle = localStorage.getItem("title");
